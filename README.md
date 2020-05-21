@@ -16,3 +16,5 @@ Aby projekt mógł zostać uruchomiony niezbędna jest baza danych SQL Server.
 Connection string do bazy danych należy umieścić w pliku appsettings.json
 
 W przypadku problemów z załadowaniem funkcjonalności front-endowych należy zastosować komendę "npm install" w folderze ClientApp.
+
+![Zdjęcie poglądowe](https://i.imgur.com/y4JEdak.png)
