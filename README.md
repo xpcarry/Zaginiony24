@@ -3,9 +3,11 @@ wersja npm: 6.14.4
 wersja dotnet: 3.1.3
 
 Po uruchomieniu projektu panel użytkownika dostępny jest po zalogowaniu na jedno z kont utworzonych przy inicjalizacji z pliku SeedData.cs lub poprzez rejestracje i logowanie na utworzone przez siebie konto.
+
 Przykładowe dane do logowania użytkownika:
 email: user@zaginiony24.pl
 haslo: Passw0rd!
+
 Panel administratora dostępny jest z poziomu paska nawigacyjnego i pola "Zarządzaj" po zalogowaniu na konto administratora i odświeżeniu strony!
 email: admin@zaginiony24.pl
 haslo: Passw0rd!
